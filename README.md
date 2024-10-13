@@ -51,5 +51,16 @@ This repository is designed for practicing and learning how to conduct meta-anal
 
 - **R Packages**:
   - `metafor`
+ 
+## Reference
+1. Borenstein, M., Hedges, L. V., Higgins, J. P., & Rothstein, H. R. (2011). Introduction to meta-analysis. John Wiley & Sons.
+2. Cohen, J. 1969. Statistic power analysis in the behavioral sciences, New York, NY: Academic Press.
+3. Hedges, L. V. (1981). Distribution theory for Glass's estimator of effect size and related estimators. journal of Educational Statistics, 6(2), 107-128.
+4. Morris, S. B. (2008). Estimating effect sizes from pretest-posttest-control group designs. Organizational research methods, 11(2), 364-386.
+5. Scionti, N., Cavallero, M., Zogmaister, C., & Marzocchi, G. M. (2020). Is cognitive training effective for improving Executive Functions in preschoolers? A systematic review and meta-analysis. Frontiers in Psychology, 10, 2812.
+6. Viechtbauer, W. (2010). Conducting meta-analyses in R with the metafor package. Journal of statistical software, 36(3), 1-48.
+7. The metafor Package: A Meta-Analysis Package for R
+http://www.metafor-project.org/doku.php
+
 
 
