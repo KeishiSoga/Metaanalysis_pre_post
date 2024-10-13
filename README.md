@@ -6,9 +6,9 @@ This repository contains an R script for performing a meta-analysis using a pre-
 
 ## Files and Directories
 
-- `data/sample_meta_pre_post.csv`: CSV file containing the pseudodata for the meta-analysis.
-- `scripts/meta_analysis.R`: The main R script performing the analysis.
-- `results/forest_plot.png`: (Optional) Generated forest plot after running the script.
+- `sample_meta_pre_post.csv`: CSV file containing the pseudodata for the meta-analysis.
+- `Sample_analysis_prepost.R`: The main R script performing the analysis.
+- `sample.png`: (Optional) Generated forest plot after running the script.
 - `README.md`: This file, providing an overview and instructions.
 
 
